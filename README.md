@@ -20,7 +20,7 @@
 ---
 
 - Condições para os alunos:
-     +	Média Maior ou Igual a 7,0: Aprovado
+     +	Média maior ou Igual a 7,0: Aprovado
      +	Média entre 4,0 e 7,0: Recuperação
      +	Média menor que 4,0: Reprovado
 ---
