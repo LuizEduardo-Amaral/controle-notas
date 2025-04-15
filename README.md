@@ -1,4 +1,4 @@
-## Projeto Final do Curso de Introdução à Programação Python
+## Projeto Final do Curso de Introdução à Programação Python (IFSP)
 
 ### Lançamento de Notas
 
