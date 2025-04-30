@@ -2,7 +2,7 @@
 
 ### Lançamento de Notas
 
-- Estrutura que permite o lançamento de notas para vários alunos.
+- Um sistema para gerenciamento de notas acadêmicas com cálculo de médias, estatísticas por gênero e relatórios percentuais.
 --- 
 
 - Cada aluno tem 03 notas. Observando:
@@ -25,9 +25,9 @@
      +	Média menor que 4,0: Reprovado
 ---
 
-- Ao Final é apresentado:
-     +	Total de alunos cadastrados
----
+ ### Ao Final é apresentado:
+      
+**Total de alunos cadastrados**
 
 **Porcentagem**
 +	Quantidade percentual de alunos aprovados
