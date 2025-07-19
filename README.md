@@ -1,43 +1,27 @@
-## Projeto Final do Curso de Introdução à Programação Python (IFSP)
+# 📊 Sistema de Controle de Notas Acadêmicas (Python)
 
-### Lançamento de Notas
+Projeto desenvolvido como trabalho final do curso de **Introdução à Programação Python (IFSP)**. Um sistema para gerenciamento de notas com análise estatística por gênero.
 
-- Um sistema para gerenciamento de notas acadêmicas com cálculo de médias, estatísticas por gênero e relatórios percentuais.
---- 
+## 🚀 Funcionalidades
 
-- Cada aluno tem 03 notas. Observando:
-  + Nenhuma nota deve ser inferior a zero
-  + Nenhuma nota deve ser superior a 10
----
+- **Cadastro de Alunos**:
+  - Nome e sexo (masculino/feminino)
+  - 3 notas por aluno (validadas entre 0 e 10)
 
-- Cálculo da nota média do aluno:
-  + Somatório das três notas dividida por 3
----
+- **Cálculos**:
+  - Média aritmética das notas
+  - Status (Aprovado ≥7.0 | Recuperação 4.0-7.0 | Reprovado <4.0)
 
-- Além das notas deve ser informado:
-     +	Nome do aluno
-     +	Sexo do aluno
----
+- **Relatórios**:
+  - Estatísticas por gênero (valores absolutos e percentuais)
+  - Visão geral da turma
 
-- Condições para os alunos:
-     +	Média maior ou Igual a 7,0: Aprovado
-     +	Média entre 4,0 e 7,0: Recuperação
-     +	Média menor que 4,0: Reprovado
----
+## 💻 Tecnologias Utilizadas
+- Python 3
+- Lógica condicional (if/else)
+- Estruturas de dados (listas, dicionários)
 
- ### Ao Final é apresentado:
-      
-**Total de alunos cadastrados**
-
-**Porcentagem**
-+	Quantidade percentual de alunos aprovados
-+	Quantidade percentual de alunos em recuperação
-+	Quantidade percentual de alunos reprovados
-
-**Valores Absolutos**
-+	Quantidades de pessoas do sexo feminino aprovadas
-+	Quantidades de pessoas do sexo masculino aprovadas
-+	Quantidades de pessoas do sexo feminino de recuperação
-+	Quantidades de pessoas do sexo masculino de recuperação 
-+	Quantidades de pessoas do sexo feminino reprovadas
-+	Quantidades de pessoas do sexo masculino reprovadas
+## 📋 Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/LuizEduardo-Amaral/controle-notas.git
